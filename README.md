@@ -1,55 +1,55 @@
-# Areena-Siju
-Portfolio repository to highlight my skills, projects, and achievements in International Business and Marketing.
-# 👋 Hi, I'm Areena Siju  
-
-🎓 MBA in International Business | 💡 Aspiring Entrepreneur | 👗 Founder of ArineStyle  
-
-Welcome to my portfolio repository! This is where I showcase my **projects, achievements, and skills** in business, marketing, and entrepreneurship.  
-
----
-
-## 🚀 About Me  
-- 📍 Based in Punjab, India  
-- 💼 MBA specialization in **International Business**  
-- 👕 Founder of **[ArineStyle](https://areenasiju.wixsite.com/arinestyle)** – a fashion brand  
-- 📈 Passionate about **digital marketing, branding, and strategy**  
-- 🌍 Interested in **global career opportunities**  
-
----
-
-## 🛠️ Skills  
-- **Marketing & Branding**: Campaigns, Social Media Strategy, SEO  
-- **Business Tools**: Power BI, Excel, Canva, SEMrush  
-- **International Business**: Export-Import, Market Research  
-- **Entrepreneurship**: Brand Development, E-commerce  
-
----
-
 ## 📌 Projects  
+
 ### 🔹 [ArineStyle](https://areenasiju.wixsite.com/arinestyle)  
-A fashion brand focusing on stylish t-shirts. I designed the brand identity, promoted products via social media, and generated early sales.  
+A fashion brand concept and website created to showcase modern streetwear (t-shirts).  
+- Designed brand identity and positioning  
+- Built and published the **ArineStyle website** using Wix  
+- Developed initial brand concept and visual identity  
 
-### 🔹 Digital Marketing Campaign  
-Executed a full-fledged marketing campaign for a streetwear brand, covering **SEO audit, social media ads, and web design**.  
+### 🔹 Integrated Digital Marketing Campaign (ArineStyle)  
+- Conducted market research, SEO audits, and on-page optimization  
+- Created blogs on Blogger.com and optimized Wix landing pages  
+- Designed and executed Instagram & Facebook Ads (carousel/video)  
+- Implemented **gamification strategies** (quizzes via Canva)  
+- Monitored analytics with Meta Ads Manager & YouTube Insights  
 
-### 🔹 MBA Case Studies & Research  
-- *Pricing Psychology and Consumer Behaviour: A Case Study on Zudio*  
-- *International Business Strategies & Market Entry Plans*  
+### 🔹 Marketing & Content Strategy (Karmic Beauty)  
+- Created omnichannel strategy for sustainable beauty products  
+- Executed **Instagram & YouTube campaigns** with reels & videos  
+- Achieved **₹3,392 revenue** from 47 campaign clicks  
 
----
+### 🔹 Rebranding “Tee Luxe” (Regional T-Shirt Product)  
+- Developed strong brand identity and positioned product in the market  
+- Leveraged social media for visibility and engagement  
+- Improved **sales, negotiation, and communication** skills  
 
-## 📊 Achievements  
-- 🏆 Successfully branded and marketed a regional t-shirt line, generating sales of ₹7650  
-- 📢 Conducted a **digital marketing campaign** that improved online visibility  
-- 🎯 Secured an internship with **ITC Classmate** focused on retail promotion and market visibility  
+### 🔹 Foreign Trade Analysis of the USA  
+- Conducted PESTLE analysis of the U.S. business environment  
+- Evaluated U.S.-India trade relations (pharma, AI, e-commerce)  
+- Analyzed renewable energy and sustainability policies  
 
----
+### 🔹 International Trade Logistics: Process Mapping & Bottleneck Analysis  
+- Mapped end-to-end logistics process of **Frontline Exports Pvt Ltd (Seafood Exporter)**  
+- Identified bottlenecks: port congestion, documentation errors, customs delays, cold chain risks  
+- Proposed improvements:  
+  - 📑 Digital documentation (blockchain, ICEGATE)  
+  - ⚓ Port diversification (Kochi → Mundra/Vizhinjam)  
+  - ✅ Customs pre-clearance (AEO program)  
+  - ❄️ IoT-based cold chain monitoring  
+- Outcome: Recommendations could improve shipment efficiency by **15–20%** and reduce costs by **8–10%**  
 
-## 🌍 Connect with Me  
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 📧 [Email](mailto:your@email.com)  
-- 🌐 [ArineStyle Website](https://areenasiju.wixsite.com/arinestyle)  
+### 🔹 Power BI Dashboard (Superstore Dataset)  
+- Developed an **interactive dashboard** to visualize business insights:  
+  - 📈 Yearly Sales Trend  
+  - 🌍 Regional Sales Comparison  
+  - 🏆 Top Products Analysis  
+  - 🥧 Pie Chart by Segment & Category  
+  - 🗺️ Map Visualization  
+  - 🔎 Slicers for dynamic filtering  
+- *(Sample `.pbix` file uploaded in this repo for reference)*  
 
----
+### 🔹 Coastal Tourism: Focus on Beach Resorts  
+- Researched economic, environmental & social impacts of coastal resorts  
+- Recommended sustainable practices for tourism development  
 
-✨ *This portfolio is a reflection of my journey — blending business strategy, creativity, and entrepreneurship.*  
+  
